@@ -18,12 +18,12 @@ https://sites.google.com/site/germeval2014ner/data
 I uploaded three **.py** files and one **.ipynb** file. The .py files contain the network implementation and utilities. The Jupyter Notebook is a demo of how to apply the model.
 
 ## Architecture
-Word level bidirectional LSTM 
+ + Word level bidirectional LSTM 
  + Char level bidirectional LSTM
  + Bahdanau Attention
  + Dropout everywhere
  + Stacked fully connected layers
-CRF or cross entropy loss.
+ + CRF or cross entropy loss.
 
 
 Even though the model was trained on german data, the architecture should apply to any language. \
