@@ -25,4 +25,4 @@ Word level bidirectional LSTM
  + Stacked fully connected layers
 CRF or cross entropy loss.
 
-The model scores around state of the art results.
+The model scores around **state-of-the-art results**.
