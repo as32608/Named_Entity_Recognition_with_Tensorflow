@@ -26,5 +26,5 @@ Word level bidirectional LSTM
 CRF or cross entropy loss.
 
 
-Even though the model was trained on german data, the architecture should apply to any language.
+Even though the model was trained on german data, the architecture should apply to any language. \
 It scores around **state-of-the-art results**.
