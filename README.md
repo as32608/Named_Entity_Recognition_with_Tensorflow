@@ -25,4 +25,6 @@ Word level bidirectional LSTM
  + Stacked fully connected layers
 CRF or cross entropy loss.
 
-The model scores around **state-of-the-art results**.
+
+Even though the model was trained on german data, the architecture should apply to any language.
+It scores around **state-of-the-art results**.
