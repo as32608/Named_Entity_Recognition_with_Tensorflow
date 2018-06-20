@@ -1,5 +1,5 @@
 # Named_Entity_Recognition_with_Tensorflow
-Named Entity Recognition with bidirectional LSTM + CRF architecture on word level and character level. 
+Named Entity Recognition with bidirectional LSTM + CRF architecture on word level and character level. \
 Course project at university to anonymize german textual data and comply with GDPR.
 
 ## Prerequisites
